@@ -65,7 +65,7 @@ Hi, I'm Brian!
 
 <p>
     <a href="https://github.com/briancoding404"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/briancoding404"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="Mongo" src ="https://img.shields.io/badge/MongoDB%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
