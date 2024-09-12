@@ -22,14 +22,15 @@ Hi, I'm Brian!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack Machine Learning Application development
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>, this is <a href="https://drive.google.com/file/d/1OL-pYjC8jb3u3bbqLswQooZkah4ExeZf/view?usp=sharing" target="_blank">MY RESUME.</a>
+
+
+💻 Soy un programador Full Stack autodidacta con experiencia en desarrollo de aplicaciones y scripting para servidores de videojuegos.  
+📚 He aprendido de forma independiente a través de diversas plataformas, cursos en línea y documentación.  
+🛠️ He trabajado con frameworks y tecnologías como Django, React, Express, ESX y QBCore, y actualmente desarrollo proyectos en servidores de FiveM utilizando Lua y ESX.  
+🌟 Mis principales lenguajes de programación son Python, JavaScript, HTML, CSS y Lua.  
+🌱 Estoy en constante aprendizaje para mejorar mis habilidades y consolidarme en el campo del desarrollo.  
+🚩 Mi objetivo es seguir aprendiendo y dedicarme profesionalmente a la programación.  
+🤔 Actualmente, estoy abierto a oportunidades para seguir creciendo en el mundo del desarrollo y colaborar en proyectos desafiantes. 
 </pre>
 <hr>
 
