@@ -48,6 +48,7 @@ Hi, I'm Brian!
 <p>
     <a href="https://github.com/briancoding404"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="https://github.com/briancoding404"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="Lua" src="https://img.shields.io/badge/Lua%20-%2314354C.svg?logo=lua&logoColor=white"></a>
 
 ### 🧰 Frameworks and Libraries
 
