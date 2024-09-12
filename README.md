@@ -52,9 +52,9 @@ Hi, I'm Brian!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/briancoding404"><img alt="ESX" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=ESX&logoColor=white"></a>
-    <a href="https://github.com/briancoding404"><img alt="React" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=React&logoColor=white"></a>
-    <a href="https://github.com/briancoding404"><img alt="Django" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=Django&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="ESX" src="https://img.shields.io/badge/ESX%20-%23D00000.svg?logo=ESX&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="React" src="https://img.shields.io/badge/React%20-%23013243.svg?logo=React&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="Django" src="https://img.shields.io/badge/Django%20-%23150458.svg?logo=Django&logoColor=white"></a>
     <a href="https://github.com/briancoding404"><img alt="Express" src="https://img.shields.io/badge/Expressjs%20-%23FF6F00.svg?logo=Express&logoColor=white"></a>
     <a href="https://github.com/briancoding404"><img alt="Vuejs" src="https://img.shields.io/badge/Vuejs%20-%23D00000.svg?logo=VueJs&logoColor=white"></a>
     <a href="https://github.com/briancoding404"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
@@ -63,8 +63,8 @@ Hi, I'm Brian!
 ### 🗄️ Databases and Cloud Hosting
 
 <p>
-    <a href="https://github.com/Bouaskaoun"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
-    <a href="https://github.com/Bouaskaoun"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="MongoDB" src ="https://img.shields.io/badge/Firebase-%23FF6F00.svg?logo=firebase&logoColor=white"></a>
 </p>
 
 ### 💻 Software and Tools
