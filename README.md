@@ -5,11 +5,11 @@ Hi, I'm Brian!
 	</a>
 </h1>
 <p align="center">
-	<a href="[https://github.com/Bouaskaoun](https://github.com/briancoding404)">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
+	<a href="[https://github.com/briancoding404](https://github.com/briancoding404)">
+		<img src="https://komarev.com/ghpvc/?username=briancoding404&label=Profile%20views&color=0e75b6&style=flat" alt="bouaskaoun" />
 	</a>
 	<a href="[https://github.com/briancoding404](https://github.com/briancoding404)">
-		<img src="https://img.shields.io/github/followers/briancoding404?label=Followers" alt="bouaskaoun" />
+		<img src="https://img.shields.io/github/followers/briancoding404?label=Followers" alt="briancoding404" />
 	</a>
 </p>
 <br/>
