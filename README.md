@@ -55,8 +55,8 @@ Hi, I'm Brian!
     <a href="https://github.com/briancoding404"><img alt="ESX" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="https://github.com/briancoding404"><img alt="React" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
     <a href="https://github.com/briancoding404"><img alt="Django" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="https://github.com/briancoding404"><img alt="Express" src="https://img.shields.io/badge/expressjs%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-    <a href="https://github.com/briancoding404"><img alt="Vuejs" src="https://img.shields.io/badge/vuejs%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="Express" src="https://img.shields.io/badge/Expressjs%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="https://github.com/briancoding404"><img alt="Vuejs" src="https://img.shields.io/badge/Vuejs%20-%23D00000.svg?logo=Angular&logoColor=white"></a>
     <a href="https://github.com/briancoding404"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%23150458.svg?logo=Bootstrap&logoColor=white"></a>
 </p>
 
