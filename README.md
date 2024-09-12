@@ -88,7 +88,7 @@ Hi, I'm Brian!
 -->
 
 
- <a href=""><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+##<a href=""><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
 <summary><b>⚡ Brian Stats</b></summary>
@@ -130,18 +130,18 @@ Hi, I'm Brian!
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="mailto:brianjavhe@gmail.com">contact me through email</a> me.
+Si tiene alguna pregunta sobre el desarrollo web backend, no dude en <a href="mailto:brianjavhe@gmail.com">contactar conmigo a través del correo electrónico</a> 
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com">Fiverr</a> or <a href="https://www.linkedin.com/in//">LinkedIn</a> to deploy your machine learning project on web.
+Puedes contratarme como freelance en  <a href="https://www.linkedin.com/in//">LinkedIn</a>
 
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+##  No es perfecto, ¿verdad?
 
 **<a href="https://github.com/briancoding4044"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
-“I think it’s very important to have a feedback loop, where you’re constantly thinking about what you’ve done and how you could be doing it better.”
+“Creo que es muy importante tener un bucle de retroalimentación, en el que estés constantemente pensando en lo que has hecho y en cómo podrías hacerlo mejor.”
 – Elon Musk
 
   </td>
