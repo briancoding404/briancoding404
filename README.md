@@ -24,7 +24,7 @@ Hi, I'm Brian!
 <pre>
 
 
-💻 Soy un programador Full Stack autodidacta con experiencia en desarrollo de aplicaciones y scripting para servidores de videojuegos.  
+💻 Soy un programador  autodidacta con experiencia en desarrollo de aplicaciones y scripting para servidores de videojuegos.  
 📚 He aprendido de forma independiente a través de diversas plataformas, cursos en línea y documentación.  
 🛠️ He trabajado con frameworks y tecnologías como Django, React, Express, ESX y QBCore, y actualmente desarrollo proyectos en servidores de FiveM utilizando Lua y ESX.  
 🌟 Mis principales lenguajes de programación son Python, JavaScript, HTML, CSS y Lua.  
